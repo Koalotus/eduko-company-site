@@ -1,0 +1,40 @@
+div {
+	border: 1px solid red;
+}
+#hero {
+	background-image: url("sea-bg.jpg");
+	background-size: cover;
+
+}
+
+#hero h1  {
+	font-size: 50px;
+	margin: 0px;
+	padding: 500px 500px;
+	font-family: 'Lobster', cursive;
+	color: white;
+}
+
+#Anchors-Away img  {
+	display: inline;
+	float: left;
+	padding: 100px 75px 100px 100px;
+}
+
+#Anchor-Text {
+	padding: 150px 75px 150px 0px;
+	display: block;
+
+}
+
+#mermaid-pic {
+	clear: both;
+	display: inline-block;	
+	
+}
+
+h1 {
+
+
+}
+
